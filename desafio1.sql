@@ -1,1 +1,1 @@
-'iniciando o projeto MySQL All For One'
+SELECT product_name FROM northwind.products;
