@@ -1,1 +1,1 @@
-SELECT notes FROM purchase_orders WHERE notes >= 30 AND notes <= 39;
+SELECT notes FROM purchase_orders WHERE notes IN ('Purchase generated based on Order') AND notes >= 30 AND notes <= 39;
