@@ -5,6 +5,8 @@ O objetivo desse projeto é criar soluções que envolvam os principais comandos
 
 #### Desafios aplicados
 Desafios de SELECT e criação de dados;
+
 Desafios sobre filtragem de dados;
+
 Desafios de manipulação de tabelas.
 
